@@ -12,10 +12,9 @@ function CustomNav() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Link to='/'>Home</Link>
             <Link to="/products">Products</Link>
             <Link to="/restaurent">Restaurent</Link>
-            <Link to="/about">About</Link>
+           
             
             
           </Nav>
